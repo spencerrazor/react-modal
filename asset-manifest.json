@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/%7Breact-modal%7D/static/css/main.6e03c6dd.css",
-    "main.js": "/%7Breact-modal%7D/static/js/main.2ad7c157.js",
-    "static/js/787.438c10e6.chunk.js": "/%7Breact-modal%7D/static/js/787.438c10e6.chunk.js",
-    "static/media/logo.svg": "/%7Breact-modal%7D/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/%7Breact-modal%7D/index.html",
-    "main.6e03c6dd.css.map": "/%7Breact-modal%7D/static/css/main.6e03c6dd.css.map",
-    "main.2ad7c157.js.map": "/%7Breact-modal%7D/static/js/main.2ad7c157.js.map",
-    "787.438c10e6.chunk.js.map": "/%7Breact-modal%7D/static/js/787.438c10e6.chunk.js.map"
+    "main.css": "/react-modal/static/css/main.6e03c6dd.css",
+    "main.js": "/react-modal/static/js/main.39d49805.js",
+    "static/js/787.438c10e6.chunk.js": "/react-modal/static/js/787.438c10e6.chunk.js",
+    "static/media/logo.svg": "/react-modal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-modal/index.html",
+    "main.6e03c6dd.css.map": "/react-modal/static/css/main.6e03c6dd.css.map",
+    "main.39d49805.js.map": "/react-modal/static/js/main.39d49805.js.map",
+    "787.438c10e6.chunk.js.map": "/react-modal/static/js/787.438c10e6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6e03c6dd.css",
-    "static/js/main.2ad7c157.js"
+    "static/js/main.39d49805.js"
   ]
 }
