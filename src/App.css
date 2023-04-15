@@ -21,6 +21,7 @@
   justify-content: space-around;
   font-size: calc(10px + 2vmin);
   color: white;
+  flex-wrap: wrap;
 }
 
 .App-link {
@@ -30,8 +31,8 @@
 button {
   background-color: #fcba28;
   border-radius: 5px;
-  width: 100px;
-  height: 50px;
+  width: 10em;
+  height: 5em;
   color: white;
   border: none;
   display: block;
