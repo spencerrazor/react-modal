@@ -1,8 +1,8 @@
 {
   "name": "modal",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "http://{spencerrazor}.github.io/{react-modal}",
+  "private": true,
+  "homepage": "https://spencerrazor.github.io/react-modal",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
