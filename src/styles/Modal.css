@@ -1,0 +1,17 @@
+#modal {
+    height: 75vh;
+    width: 75vw;
+    background-color: rgb(122, 158, 182);
+    position: absolute;
+    bottom: 0;
+    left: calc(50% - 75vw / 2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    visibility: visible;
+}
+
+#modal p {
+    text-decoration: underline;
+    text-decoration-line: overline;
+}
